@@ -1,6 +1,8 @@
 # Summary
 **vol_control.py** and **vol_overlay.py** are simply programs designed to be run behind the scenes to intercept the media keys (Vol up/down and mute) and control the master Alsa volume level
 
+![Example image](https://github.com/meekys/vol_overlay/blob/master/vol_overlay.jpg)
+
 ## vol_control.py
 Basic keyboard controls and volume control
 
