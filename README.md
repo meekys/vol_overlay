@@ -32,6 +32,7 @@ BACKGROUNDBAR_COLOR | Colour of inactive volume bar
 BAR_COLOR           | Color of active volume bar
 
 Additionally, the following images are used and can be changed as required. All images must be saved as 32-bit pngs
+
 Image               | Usage
 --                  | --
 background.png      | Background shading
