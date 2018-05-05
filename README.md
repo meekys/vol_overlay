@@ -21,7 +21,15 @@ If you want to run **vol_overlay.py** the following additional dependencies are 
 `sudo apt-get install python-opengl`
 
 # Settings
-There is some basic configuration at the top of **vol_overlay.py** if you wish to tweak the behavior or the looks
+
+There are some basic settings that can be configured to change the behaviour and appearance to suit your needs.
+
+## vol_control.py
+Setting | Behavior
+--      | --
+CARD    | Alsa card index you wish to control. Default = 0
+
+## vol_overlay.py
 
 Setting             | Behavior
 --                  | --

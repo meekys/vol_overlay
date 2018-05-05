@@ -1,7 +1,7 @@
 import alsaaudio
 import keyboard
 
-CARD = 1
+CARD = 0
 
 VOL_STEP = 5
 
